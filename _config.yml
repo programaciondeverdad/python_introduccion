@@ -1,2 +1,4 @@
 theme: jekyll-theme-cayman
 title: Introducción a Python - Programación de Verdad
+relative_links:
+  enabled:     true
