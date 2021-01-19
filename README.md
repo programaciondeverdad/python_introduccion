@@ -111,3 +111,6 @@ Devolver un detalle y el valor total en pantalla.
 
 
 # Ver resoluciones en la carpeta ejercicios/
+
+# Recursos
+http://colab.research.google.com
