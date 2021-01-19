@@ -106,3 +106,8 @@ Calcular todas las tortas que quedaron de ayer y devolver la perdida de dinero p
 
 Vos necesitas calcular el costo de tu trabajo freelancer. Para eso te haces un programa para configurar tu valor hora, un porcentaje a sumarle por la dificultad del trabajo, un porcentaje a sumarle por los conocimientos previos necesitados, el valor de los servicios necesitados para realizar el trabajo (internet, electricidad, comida, etc).
 Devolver un detalle y el valor total en pantalla.
+
+
+
+
+# Ver resoluciones en la carpeta ejercicios/
