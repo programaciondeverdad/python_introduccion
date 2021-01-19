@@ -1,6 +1,8 @@
+---
 layout: page
-title: "Ejercicios, Temas de la clase y más"
-permalink: /ejercicios/
+title: Ejercicios Python
+description: Ejercicios para resolver en clase
+---
 
 # Introducción a Python
 
