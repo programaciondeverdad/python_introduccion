@@ -1,9 +1,3 @@
----
-layout: page
-title: Ejercicios Python
-description: Ejercicios para resolver en clase
----
-
 # Introducción a Python
 
 ¡Hola! En este curso de 1hs vamos a ver como usar Python y poder hacer nuestro primer programa.
