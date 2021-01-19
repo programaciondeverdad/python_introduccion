@@ -8,6 +8,8 @@ En este curso dictado en vivo [video Youtube](https://youtu.be/zJbxitaa6yw) vamo
 
 ¡No necesitas conocimientos previos! Solamente sentarte tranquilamente, mirar el video y preguntar si hay dudas.
 
+## Ejercicios
+[Ir a los ejercicios](README.md)
 
 ### Soporte o Ayuda or Contact
 
@@ -16,3 +18,5 @@ En este curso dictado en vivo [video Youtube](https://youtu.be/zJbxitaa6yw) vamo
 ### ¿Más ayuda?
 
 ¡Ok! Tomemos clases particulares online juntos. Contactate por e-mail y aprendé a programar con mi ayuda personalizada [programaciondeverdad@gmail.com](mailto:programaciondeverdad@gmail.com).
+
+
