@@ -42,7 +42,7 @@ Escribir un programa que pregunte el nombre del usuario. Después debe imprimir 
 
 Escribir un programa que realice la siguiente operación aritmética
 
-![operacion artimetica 1](operacion_artimetica2.png?raw=true "Title")
+![operacion artimetica 1](../images/operacion_artimetica2.png?raw=true "Title")
 
 
 
@@ -56,7 +56,7 @@ Escribir un programa que pregunte al usuario por el número de horas trabajadas 
 
 Escribir un programa que realice la siguiente operación aritmética, donde se le pida al usuario ingresar primero un número <n> y deberá reemplazar <n> por el valor en la operación.
   
-![operacion artimetica 2](operacion_artimetica.png?raw=true "Title")
+![operacion artimetica 2](../images/operacion_artimetica.png?raw=true "Title")
 
 
 
