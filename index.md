@@ -9,7 +9,7 @@ En este curso dictado en vivo [video Youtube](https://youtu.be/zJbxitaa6yw) vamo
 ¡No necesitas conocimientos previos! Solamente sentarte tranquilamente, mirar el video y preguntar si hay dudas.
 
 ## Ejercicios
-[Ir a los ejercicios](ejercicios/)
+[Ir a los ejercicios](pages/ejercicios.html)
 
 ### Soporte o Ayuda or Contact
 
