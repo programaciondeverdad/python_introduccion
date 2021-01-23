@@ -1,3 +1,7 @@
-saludo_usuario = input("Ingrese su nombre")
+nombre = input("Ingrese su nombre")
+#string o cadena de texto
 
-print(saludo_usuario)
+# concatenar texto con la variable string
+saludo = "¡Hola " + nombre + "!"
+
+print(saludo)
