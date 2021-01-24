@@ -25,7 +25,7 @@ Escribir un programa que guarde la cadena "¡Hola Python!" en una variable y lue
 
 **Ejercicio 3**
 
-Escribir un programa que pida al usuario que ingrese su nombre por consola y que lo salude mostrando el mensaje "¡Hola <nombre>!", donde <nombre> es el nombre ingresado anteriormente.
+Escribir un programa que pida al usuario que ingrese su nombre por consola y que lo salude mostrando el mensaje "¡Hola `<nombre>`!", donde `<nombre>` es el nombre ingresado anteriormente.
 
 
 **Ejercicio 4**
